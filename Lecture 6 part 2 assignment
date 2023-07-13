@@ -1,0 +1,18 @@
+#include<iostream>
+using name space
+int main()
+{
+int i;
+for (i=1; ;i++)
+//{
+//cout<<i++" ";
+//cout<<i++<<endl;;
+
+cout<<i<<" "<<j<<" "<<k<<endl;
+j= i++;
+
+cout<<i<<" "<<j<<" "<<k<<endl;
+k=++i;
+}
+
+
